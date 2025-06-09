@@ -34,6 +34,12 @@ nav{
     
 }
 
+.empCons, .anosExp, .metrosCons:hover{
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}    
+
 .aboutNois{
     display: flex;
     flex-direction: row;
