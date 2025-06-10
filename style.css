@@ -133,7 +133,7 @@ footer{
   }
 
   .info-comp{
-    
+    flex-direction: column;
     text-align: center  ;
     height: auto;
     margin-top: auto;
