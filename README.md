@@ -1,6 +1,8 @@
 # RID219930_Desafio01
 
 
+Feito por Donovan Bueno!! Espero que goste
+
 Netlify
 https://landingpagedncd1.netlify.app/
 
